@@ -3,11 +3,6 @@
 <h1>Software Developer</h2>
 </body>
 <h2>vetri.n</h1>
-<style>
-p{
-  text-align:center;
-}
-</style>
   <body>
     <h3>Eduction</h3>
     <p>•cyber security</p>
